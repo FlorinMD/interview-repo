@@ -1,0 +1,3 @@
+protocol MountainsDelegate {
+    func didSelect()
+}
